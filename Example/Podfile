@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TencentOpenAPI-Xi_Tests' do
+  pod 'TencentOpenAPI-Xi', :path => '../'
+  
+  
+end
